@@ -1,0 +1,28 @@
+    body {
+        text-align: center;
+        /* background-image: url("https://c4.wallpaperflare.com/wallpaper/462/921/235/stranger-things-5k-wallpaper-preview.jpg"); */
+        /* background-image: url("./shows-website/images/BG-1.webp"); */
+        /* background: cover; */
+        background: url("./shows-website/images/BG-1.webp") no-repeat  fixed; 
+  background-size: cover;
+        /* background-size: auto; */
+    /* background-repeat: no-repeat; */
+    color: cornflowerblue;
+    }
+    .fText {
+        color: white;
+    }
+    h3 {
+        color:burlywood
+    }
+    h2 {
+        color: aqua;
+    }
+    p{
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+    .hNav {
+        display: inline-block;
+        list-style: none;
+      }

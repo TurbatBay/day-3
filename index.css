@@ -1,0 +1,38 @@
+header {
+  font-family: "Kanit", sans-serif;
+}
+body {
+  background-color: blanchedalmond;
+}
+ul, li {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: 10;
+  padding-top: 5px;
+}
+.hLogo {
+  display: inline-block;
+}
+.hNav {
+  display: inline-block;
+}
+.hLi {
+  margin: 30px;
+}
+h2 {
+  color: brown;
+  font-size: 40px;
+}
+p {
+  text-indent: 50px;
+}
+main {
+  text-align: center;
+  padding: 20px;
+}
+.first-3 {
+  padding-right: 150px;
+}
+.second-3 {
+  padding-left: 80px;
+}
